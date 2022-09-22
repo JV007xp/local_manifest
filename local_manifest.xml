@@ -1,0 +1,17 @@
+<? xml version = " 1.0 " encoding = " UTF-8 " ?>
+
+< manifestação >
+
+<!-- Controles Remotos -->
+
+   < nome remoto  = " raidenkkj " buscar = " https://github.com/raidenkkj " /> 
+
+<!-- Árvore de dispositivos -->
+
+   < caminho do projeto  = " device/asus/A001D " name = " android_device_asus_A001D " remote = " raidenkkj " revision = " onze " />   
+
+   < caminho do projeto  = " vendor/asus/A001D " name = " vendor_asus_A001D " remote = " raidenkkj " revision = " 11 " />   
+
+   < caminho do projeto  = " kernel/asus/A001D " name = " kernel_asus_A001D " remote = " raidenkkj " revision = " 11 " />   
+
+</ manifesto >
